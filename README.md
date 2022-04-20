@@ -1,11 +1,19 @@
-# **date-slayer**
-<!-- ![npm](https://img.shields.io/npm/v/date-slayer?color=%23b8860b&style=flat-square) -->
-<!-- ![license](https://img.shields.io/npm/l/date-slayer?color=red&style=flat-square) -->
+# **__LIB__NAME**
+<!-- ![npm](https://img.shields.io/npm/v/__LIB__NAME?color=%23b8860b&style=flat-square) -->
+<!-- ![license](https://img.shields.io/npm/l/__LIB__NAME?color=red&style=flat-square) -->
 <!-- ![tests](https://img.shields.io/badge/tests-100%25-green?style=flat-square) -->
-<!-- ![types](https://img.shields.io/npm/types/date-slayer?style=flat-square) -->
+<!-- ![types](https://img.shields.io/npm/types/__LIB__NAME?style=flat-square) -->
 
 
-This is a work in progress!
+Personal template for building a TypeScript library.
+
+- search for `__LIB__NAME` in the files to find the library name placeholder. replace it with your own lib name
+- search for `Sina Khodabandehloo` in the files to find the default author name. replace it with your own name
+- search for `Sinakhx` in the files to find the default author handle. replace it with your own handle
+- run `pnpm i` in the cli to install the dev dependencies
+- write at least one passing test suite
+
+Now you are ready to go!
 
 ____________________________________
 ### **Want More Examples?**
@@ -23,7 +31,7 @@ The [MIT License][license-url] (MIT)
 
 &copy; 2022 Sina Khodabandehloo
 
-[tests-url]: https://github.com/Sinakhx/date-slayer/tree/main/__tests__/
-[contribution-url]:  https://github.com/Sinakhx/date-slayer/blob/main/CONTRIBUTING.md
-[changelog-url]:  https://github.com/Sinakhx/date-slayer/blob/main/CHANGELOG.md
-[license-url]:  https://github.com/Sinakhx/date-slayer/blob/main/LICENSE
+[tests-url]: https://github.com/Sinakhx/__LIB__NAME/tree/main/__tests__/
+[contribution-url]:  https://github.com/Sinakhx/__LIB__NAME/blob/main/CONTRIBUTING.md
+[changelog-url]:  https://github.com/Sinakhx/__LIB__NAME/blob/main/CHANGELOG.md
+[license-url]:  https://github.com/Sinakhx/__LIB__NAME/blob/main/LICENSE
