@@ -46,6 +46,7 @@
         "@commitlint/cli": "^16.2.3",
         "@commitlint/config-conventional": "^16.2.1",
         "@types/jest": "*",
+        "@types/node": "^17.0.25",
         "@typescript-eslint/eslint-plugin": "^5.20.0",
         "@typescript-eslint/parser": "^5.20.0",
         "babel-jest": "*",
@@ -58,9 +59,10 @@
         "eslint-plugin-prettier": "^4.0.0",
         "husky": "^7.0.4",
         "jest": "*",
-        "lint-staged": "^12.3.8",
+        "lint-staged": "^12.4.0",
         "prettier": "^2.6.2",
         "standard-version": "^9.3.2",
+        "ts-node": "^10.7.0",
         "tsup": "*",
         "typescript": "*"
     }

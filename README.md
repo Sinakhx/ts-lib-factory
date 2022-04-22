@@ -12,11 +12,10 @@ Personal template for building a TypeScript library.
 - replace `__LIB__DESCRIPTION` in the `package.json` file with your own lib description
 - replace `__LIB__KEYWORDS` in the `package.json` file with your own lib keywords
 - search for `Sina Khodabandehloo` in the files to find the default author name. replace it with your own name
-- search for `Sinakhx` in the files to find the default author handle. replace it with your own handle
+- search for `Sinakhx` & ``sinakhx`` in the files to find the default author handle. replace it with your own handle
 - replace `2022` in the license & readme files your own author year
 - you can also change the initial version number to your own version number in `package.json`
 - run `pnpm i` in the cli to install the dev dependencies
-- write at least one passing test suite
 
 Now you are ready to go!
 
